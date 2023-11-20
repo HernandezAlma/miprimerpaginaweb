@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(199, 225, 230, 0.916); color: rgb(33, 27, 49); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Así se pone un comment*/
+
+h1{
+    color:#311ab1;
+}
+
+h3{
+    color:#db3309;
+}
+
+img{
+    width: 350px;
+    height: 310px;
+    border-style:dashed;
+}
+
+footer{
+    background-color:rgb(116, 91, 134)
+}
+
+small, a{
+    color:whitesmoke;
+    padding-bottom: 60px;
+}
